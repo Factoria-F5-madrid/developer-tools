@@ -132,6 +132,7 @@ Gestión de datos del lado del cliente (Antes de que el usario cree una cuenta p
 - 📱 Practica con el modo responsive (Hacer pruebas)
 - 📱 Modificar sensores para testing (Tres puntos > More tools > Sensors)
 - ♿ Verificar accesibilidad: Medir contraste de colores (En apple en el botón poner background-color y revisar el resultado) y comprobar los atributos Aria
+- 📊 CSS Overview: Identify potential CSS improvements (Tres puntos > More tools > CSS Improvements)
 - 📊 Coverage: Encuentra CSS y JS no utilizado: Analiza código cargado vs utilizado y Optimiza el tamaño de tus páginas (Tres puntos > More tools > Coverage)
 
 ---

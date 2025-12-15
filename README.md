@@ -27,8 +27,8 @@ class: lead
 3. 🔍 Elements Panel
 4. 🎮 Console Panel
 5. 🔄 Network Panel
-6. ⚡ Lighthouse
-7. 🗄️ Application Panel
+6. 🗄️ Application Panel
+7. ⚡ Lighthouse
 8. 💡 Tips Avanzados
 
 ---
@@ -115,6 +115,18 @@ Analiza el rendimiento de red:
 
 ---
 
+## 🗄️ 7. Application Panel
+
+Gestión de datos del lado del cliente (Antes de que el usuario cree una cuenta podemos guardar y recuperar información del usuario):
+
+- 🍪 Cookies (Revisar instalación y gestión. Antes de meter nada debería de avisar)
+- 💾 Local Storage vs Session Storage (Diferencia clave: Local persiste a la sesión)
+- 📦 PWA: Progressive web app (Manifest and Service Workers)
+
+> ¿Revisa que no te hayan instalado nada que no hayas autorizado? ¿Has instalado algo? ¿Has creado una app para el móvil?
+
+---
+
 ## ⚡ 6. Lighthouse
 
 Diferentes tipos de auditoría, te dice en qué falla y referencias para solucionar el problema:
@@ -124,19 +136,7 @@ Diferentes tipos de auditoría, te dice en qué falla y referencias para solucio
 - Best practices
 - SEO
 
-> ¿Has auditado una página web? ¿Has consultado los errores?
-
----
-
-## 🗄️ 7. Application Panel
-
-Gestión de datos del lado del cliente (Antes de que el usuario cree una cuenta podemos guardar y recuperar información del usuario):
-
-- 🍪 Cookies (Revisar instalación y gestión. Antes de meter nada debería de avisar)
-- 💾 Local Storage vs Session Storage (Diferencia clave: Local persiste a la sesión)
-- 📦 Session Storage
-
-> ¿Revisa que no te hayan instalado nada que no hayas autorizado? ¿Has instalado algo?
+> ¿Has auditado una página web? ¿Has consultado los errores? ¿Has llegado al 100%?
 
 ---
 
@@ -144,13 +144,20 @@ Gestión de datos del lado del cliente (Antes de que el usuario cree una cuenta 
 
 - 📱 Practica con el modo responsive (Hacer pruebas, botón de arriba a la izquierda)
 - 📱 Modificar sensores para testing (Tres puntos > More tools > Sensors)
-- ♿ Verificar el contraste de colores (En apple en el botón con background-color revisar el color) 
-- 📊 CSS Overview: Identify potential CSS improvements (Tres puntos > More tools > CSS Improvements)
+- ♿ Verificar el contraste de colores (En apple en el botón con background-color revisar el color del texto. Aparece la validación del contraste) 
+- 📊 CSS Overview: Identify potential CSS improvements. ¿Unused declarations? (Tres puntos > More tools > CSS Improvements)
 - 🧹 Coverage: Encuentra CSS y JS no utilizado: Analiza código cargado vs utilizado y Optimiza el tamaño de tus páginas (Tres puntos > More tools > Coverage)
+- 🤖 Activa el asistente de IA (Tres puntos > Debug with IA)
 
 ---
 
 <!-- _class: lead -->
 ## 🎉 ¡Gracias!
+
+Lo que no se evalúa se devalúa
+
+Lo que se mide, se puede mejorar
+
+Acostúmbrate a auditarte 😉
 
 

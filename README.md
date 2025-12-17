@@ -115,7 +115,7 @@ Analiza el rendimiento de red:
 
 ---
 
-## 🗄️ 7. Application Panel
+## 🗄️ 6. Application Panel
 
 Gestión de datos del lado del cliente (Antes de que el usuario cree una cuenta podemos guardar y recuperar información del usuario):
 
@@ -127,7 +127,7 @@ Gestión de datos del lado del cliente (Antes de que el usuario cree una cuenta 
 
 ---
 
-## ⚡ 6. Lighthouse
+## ⚡ 7. Lighthouse
 
 Diferentes tipos de auditoría, te dice en qué falla y referencias para solucionar el problema:
 
